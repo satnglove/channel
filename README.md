@@ -1,2 +1,3 @@
-channel: A C++11 implementation of Go chan.
+channel: Go chan like library for C++11.
+===========================
 
